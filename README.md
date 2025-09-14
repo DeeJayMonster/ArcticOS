@@ -4,3 +4,4 @@ Work on it began on December 15, 2024.
 
 # Will there be ISO?
 Yes, probably yes. A member of our team is working on ISO for ArcticOS.
+BUT for now, the system is in .HTML
